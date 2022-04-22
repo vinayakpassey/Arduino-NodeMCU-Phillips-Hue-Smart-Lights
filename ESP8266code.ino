@@ -7,10 +7,10 @@ int data;
 
 
 
-//WiFi Details
-const char* user = "VikVin";
-const char* password = "185Clark";
-const char* hueAddress = "http://192.168.0.10/api/aBEaMMFLYnZdxfUbChE0dcyx8zGLflmgDxDO1rF8/lights/4/state";
+//WiFi Details (user can enter their own data here)
+const char* user = "";
+const char* password = "";
+const char* hueAddress = "";
 
 void setup() {
   //Begin Serial Communication
