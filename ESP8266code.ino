@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-//Variable to Read Data from the Arduino
+//Variable to Read Data from the Arduino Board
 int data;
 
 
